@@ -1,5 +1,6 @@
 const products = [
   {
+    id: "e43638ce-6aa0-4b85-b27f-e1d07eb679df",
     image: 'images/products/jumper-white.jpg',
     name: 'Qazaq Republic Jumper White',
     rating:{
